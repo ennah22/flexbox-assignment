@@ -1,34 +1,37 @@
 ## Welcome! 👋
 
-To do this challenge, you need a basic understanding of HTML, CSS flexbox and media queries.
+## PROJECT TITLE 
+Preview card using flex box
 
-## The challenge
+## Name
 
-Your challenge is to build the design image displayed in the images folder.
+My names are Aboyi Blessing Ennah.
+i am a front end developer and has taken up this challenge with a basic understanding of html, css flexbox and media quaries
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
 ## Your users should be able to:
 
-View the optimal layout for the site depending on their device's screen size
-See hover states for all interactive elements on the page
-Where to find everything
+In a file named Card i have my css folder and an index.html file in it
+and also all the required designs and images folder all in a folder "FLEXBOX-ASSIGNMENT"
 
-You will find all the required assets in the /images folder. The assets are already optimized.
+In my .html file i didnt give much class names to the elements for the styling i used the elements itself to style in css.
 
-## Building your project
 
-Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
+FILE STRUCTURE
+- index.html holds the entire content
+- css/styles.css custom css styling
+- images folder contains all the images
+- The rest are files given for this project
 
-1. Initialize your project as a public repository on GitHub. This will make it easier to share your code with the community if you need some help. If you're not sure how to do this, have a read through of this Try Git resource.
-2. Configure your repository to publish your code to a URL. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are a number of ways to do this, but we recommend using netlify.
 
-## Deploying your project
+## Building my project
 
-As mentioned above, there are a number of ways to host your project for free. We recommend using netflify as it's an amazing service and extremely simple to get set up with.
+1. After the building of this project it needs to be updated by guithub since it has been cloned 
+2. Then configure myy respository to publish the url to my code or rather make use of netlfy to deploy my projet
 
-3. Sign up to netlify and go through the onboarding flow, ensuring your GitHub account is connected by using their netlify for GitHub integration.
-4. Connect your project to netlify from the "Import project" page, using the "From Git Repository" button and selecting the project you want to deploy.
-   Once connected, every time you git push, netlify will create a new deployment and the deployment URL will be shown on your Dashboard.
 
-**Have fun building!** 🚀
+CREDITS
+Special thank you for:
+an oppotunity given to take up this challenge and the provisions of materail used for the sucession of this project
+
+**THANK YOU!!!!** 🚀
